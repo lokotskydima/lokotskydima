@@ -49,3 +49,4 @@
 ---
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokotskydima&locale=ru)](https://git.io/streak-stats)
