@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/YG1EGhFusHD3VynIFD/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+<a href="https://www.instagram.com/lokostiik/">
 <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=white " alt="LinkedIn Badge"/>
+</a>
 <a href="https://www.youtube.com/channel/UCfBD3Mcp0PcZvj_xKv10FmQ">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
