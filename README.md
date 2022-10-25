@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
 <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=white " alt="LinkedIn Badge"/>
-<a href="https://habr.com/ru/post/649363/">
+<a href="https://www.youtube.com/channel/UCfBD3Mcp0PcZvj_xKv10FmQ">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 </div>
