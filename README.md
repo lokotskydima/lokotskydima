@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/SWkGtcAKXkL3W7uMZW/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: О мне : Я ученик МПТ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+### :man_technologist: О мне : Я ученик МПТ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Из Москвы.
 
 - :telescope: Гений
 
@@ -27,7 +27,7 @@
 - :zap: Люблю учить уроки xd
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и Предметы :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
