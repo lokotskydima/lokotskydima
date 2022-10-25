@@ -1,9 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YG1EGhFusHD3VynIFD/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
 <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=white " alt="LinkedIn Badge"/>
+<a href="https://habr.com/ru/post/649363/">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
 </div>
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username= lokotskydima-github-username&style=flat-square&color=blue" alt=""/>
